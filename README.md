@@ -2,7 +2,6 @@
 <h3 align="center">A passionate Dart and Flutter Learner/Developer of Nepal</h3>
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pra-android&label=Profile%20views&color=0e75b6&style=flat" alt="pra-android" /> </p>
 
 - 🔭 I’m currently working on Dart [OOP in Dart](https://github.com/pra-android/Object-Oriented-Program-in-Dart)
 
