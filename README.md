@@ -3,7 +3,7 @@
 <img align="right" alt="coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 
-- 🔭 I’m currently working on Dart [OOP in Dart](https://github.com/pra-android/Object-Oriented-Program-in-Dart)
+- 🔭 I’m currently working on Dart [OOP in Dart](https://github.com/pra-android/Todo_App)
 
 - 👨‍💻 All of my projects are available at [https://github.com/pra-android](https://github.com/pra-android)
 
